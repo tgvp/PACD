@@ -24,7 +24,7 @@ Para mais informações, verifique:
 Como estudante, você pode obter a licença gratuita anual do PyCharm Professional:
 > **https://www.jetbrains.com/shop/eform/students**
 
-![](https://github.com/tgvp/Data-Science/blob/main/img/jetbrains_email.png)
+![](../img/jetbrains_email.png)
 
 ## Conta Educacional do GitHub
 
@@ -36,7 +36,7 @@ Para obter a Conta Educacional do Github acesse
 Após ter sua conta validada, acesse
 > **https://www.jetbrains.com/shop/eform/students**
 
-![](https://github.com/tgvp/Data-Science/blob/main/img/jetbrains_github_validation.png)
+![](../img/jetbrains_github_validation.png)
 
 ---
 

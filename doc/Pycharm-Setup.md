@@ -24,7 +24,7 @@ For more information, check:
 As a student, you can obtain a free annual license for PyCharm Professional:
 > **https://www.jetbrains.com/shop/eform/students**
 
-![](https://github.com/tgvp/Data-Science/blob/main/img/jetbrains_email.png)
+![](../img/jetbrains_email.png)
 
 ## GitHub Student Account
 
@@ -36,7 +36,7 @@ To get a GitHub Student Account, visit:
 Once your account is validated, access:
 > **https://www.jetbrains.com/shop/eform/students**
 
-![](https://github.com/tgvp/Data-Science/blob/main/img/jetbrains_github_validation.png)
+![](../img/jetbrains_github_validation.png)
 
 ---
 

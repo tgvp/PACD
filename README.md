@@ -25,7 +25,7 @@ Local development environments for Python:
 ## 📚 Installation Guides
 
 - **Visual Studio Code**
-  - [`doc/VSCode-Setup.md`](doc/VSCode-Setup.md)
+  - [`VSCode-Setup.md`](doc/VSCode-Setup.md)
 
 - **PyCharm + Jupyter Notebook**
   - [`Pycharm-Setup.md`](doc/Pycharm-Setup.md)

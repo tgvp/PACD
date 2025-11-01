@@ -5,7 +5,7 @@ Advanced Programming for Data Science repository containing support material and
 
 ## 🌐 Online Environment
 
-Run notebooks directly in your browser — no installation required:
+Run notebooks directly in your browser — **no installation required**:
 
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 

@@ -56,3 +56,7 @@ Local development environments for Python:
 - [![titanic.csv](https://img.shields.io/badge/titanic.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_2/titanic.csv)
 
 ---
+
+QUIZZ
+
+[Quizz-numpy](https://docs.google.com/forms/d/e/1FAIpQLScLTW-kt9LPFOWGdTH6sDR-hba1_pIYPjJWySmxtHHqn6HJqA/viewform?usp=sharing&ouid=109003409672362611518)

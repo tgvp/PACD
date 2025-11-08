@@ -59,4 +59,4 @@ Local development environments for Python:
 
 QUIZZ
 
-[Quizz-numpy](https://docs.google.com/forms/d/e/1FAIpQLScLTW-kt9LPFOWGdTH6sDR-hba1_pIYPjJWySmxtHHqn6HJqA/viewform?usp=sharing&ouid=109003409672362611518)
+[Quizz-numpy](https://forms.gle/KxTBwmxFNhKWu2mq5)

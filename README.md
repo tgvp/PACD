@@ -57,6 +57,8 @@ Local development environments for Python:
 
 ---
 
-QUIZZ
+## 🧠 Quizz
 
-[Quizz-numpy](https://forms.gle/KxTBwmxFNhKWu2mq5)
+[![Quizz NumPy](https://img.shields.io/badge/Quizz%20NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)](https://forms.gle/KxTBwmxFNhKWu2mq5)
+
+

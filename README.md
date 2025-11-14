@@ -56,7 +56,16 @@ Local development environments for Python:
 - [![titanic.csv](https://img.shields.io/badge/titanic.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/Data-Science/blob/main/Week_2/titanic.csv)
 
 ---
+## 📆 Week 3:
 
+### 🧩 Student Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_3/mds-pr-week-3-student.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_3/mds-pr-week-3-student.ipynb)
+
+### 📂 Datasets
+- [![messy_titanic.csv](https://img.shields.io/badge/messy_titanic.csv-9C27B0?style=for-the-badge&logo=files&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_3/messy_titanic.csv)
+
+---
 ## 🧠 Quizz
 
 [![Quizz NumPy](https://img.shields.io/badge/Quizz%20NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)](https://forms.gle/KxTBwmxFNhKWu2mq5)

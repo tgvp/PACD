@@ -1,4 +1,4 @@
-;survived;pclass;sex;age;sibsp;parch;fare;adult_male;deck;embark_town;passengerId;name
+;survived;pclass;sex;age;sibsp;parch;fare;adult_male;dreck;embark_town;passengerId;name
 0;0;3;Male;22.0;1;0;7.25;True;;Southampton;T3-1912-S-P0001;Dustin Flores
 1;1;1;female;38.0;1;0;71.2833;False;C;Cherbourg;T1-1912-C-P0001;Mary Tyler
 2;1;3;female;26.0;0;0;7.925;False;;Southampton;T3-1912-S-P0002;Anna Mendoza

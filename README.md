@@ -138,3 +138,13 @@ Local development environments for Python:
 [![Quizz NumPy](https://img.shields.io/badge/Quizz%20NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)](https://forms.gle/KxTBwmxFNhKWu2mq5)
 [![Quizz Pandas](https://img.shields.io/badge/Quizz%20Pandas-4D77CF?style=for-the-badge&logo=pandas&logoColor=white)](https://moodle.deisi.ulusofona.pt/mod/quiz/view.php?id=641)
 [![Quizz Pandas II](https://img.shields.io/badge/Quizz%20Pandas%20II-4D77CF?style=for-the-badge&logo=pandas&logoColor=white)](https://moodle.deisi.ulusofona.pt/mod/quiz/view.php?id=642)
+
+---
+
+## Announcements 
+
+- Frequencia Módulo I (30%)
+- Frequência Módulo II (40%)
+- Projeto (10%), com defesa (20%)
+
+---

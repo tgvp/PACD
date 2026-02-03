@@ -147,7 +147,7 @@ Local development environments for Python:
 - Frequência Módulo II (40%)
 - Projeto (10%), com defesa (20%)
 
-## Exame Recurso 30/01/2025 F3.7 18:30
+## Exame Recurso 30/01/2026 F3.7 18:30
 - Parte 1: Python Básico
 - Parte 2: Python Pandas
 

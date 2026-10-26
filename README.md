@@ -52,3 +52,20 @@ Learn to install Git, set up your identity, clone a practice repository, and use
 | :---: | :---: |
 | [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_1/mds-pr-week-1-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_1/mds-pr-week-1-solution.ipynb) |
 | [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_1/mds-pr-week-1-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_1/mds-pr-week-1-solution.ipynb) |
+
+---
+
+## 📆 Week 2
+
+### Pandas
+
+DataFrames, selection and filtering, transformations, data types, and exploration of datasets.
+
+| 🧩 Student | 🔒 Solution (coming soon) |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_2/mds-pr-week-2-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_2/mds-pr-week-2-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
+
+[![Download Titanic CSV](https://img.shields.io/badge/Download-Titanic_CSV-217346?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/tgvp/PACD/main/Week_2/titanic.csv)
+
+For Colab, download and upload `titanic.csv` using the Files panel before working with the dataset.

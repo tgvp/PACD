@@ -47,6 +47,7 @@ Learn to install Git, set up your identity, clone a practice repository, and use
 ---
 
 ## 📆 Week 1
+NumPy arrays, attributes, shapes, transposing, basic operations, broadcasting, vectorization.
 
 | 🧩 Student | 🔑 Solution |
 | :---: | :---: |

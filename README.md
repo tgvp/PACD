@@ -69,3 +69,9 @@ DataFrames, selection and filtering, transformations, data types, and exploratio
 [![Download Titanic CSV](https://img.shields.io/badge/Download-Titanic_CSV-217346?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/tgvp/PACD/main/Week_2/titanic.csv)
 
 For Colab, download and upload `titanic.csv` using the Files panel before working with the dataset.
+
+---
+
+## 📝 Quizzes
+
+[![Quiz NumPy Practice I](https://img.shields.io/badge/Quiz-NumPy_Practice_I-F98012?style=for-the-badge&logo=moodle&logoColor=white)](https://moodle.deisi.ulusofona.pt/mod/quiz/view.php?id=1417)

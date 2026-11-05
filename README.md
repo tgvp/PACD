@@ -48,6 +48,10 @@ Learn to install Git, set up your identity, clone a practice repository, and use
 
 ## 📆 Week 1
 
+### NumPy
+
+NumPy arrays, attributes, shapes, transposing, basic operations, broadcasting, vectorization.
+
 | 🧩 Student | 🔑 Solution |
 | :---: | :---: |
 | [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_1/mds-pr-week-1-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_1/mds-pr-week-1-solution.ipynb) |

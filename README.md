@@ -65,14 +65,31 @@ NumPy arrays, attributes, shapes, transposing, basic operations, broadcasting, v
 
 DataFrames, selection and filtering, transformations, data types, and exploration of datasets.
 
+| 🧩 Student | 🔑 Solution |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_2/mds-pr-week-2-student.ipynb) | [![GitHub Solution](https://img.shields.io/badge/GitHub-Solution-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_2/mds-pr-week-2-solution.ipynb) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_2/mds-pr-week-2-student.ipynb) | [![Colab Solution](https://img.shields.io/badge/Colab-Solution-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_2/mds-pr-week-2-solution.ipynb) |
+
+[![Download Titanic CSV](https://img.shields.io/badge/Download-Titanic_CSV-217346?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/tgvp/PACD/main/raw/titanic.csv)
+
+For Colab, download and upload `titanic.csv` using the Files panel before working with the dataset. For local use, copy `raw/titanic.csv` into the notebook working directory.
+
+---
+
+## 📆 Week 3
+
+### Data Wrangling
+
+Data inspection and cleaning, fixing data types, standardizing categorical values, handling missing data, feature engineering, and exporting cleaned datasets.
+
 | 🧩 Student | 🔒 Solution (coming soon) |
 | :---: | :---: |
-| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_2/mds-pr-week-2-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
-| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_2/mds-pr-week-2-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_3/mds-pr-week-3-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_3/mds-pr-week-3-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
 
-[![Download Titanic CSV](https://img.shields.io/badge/Download-Titanic_CSV-217346?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/tgvp/PACD/main/Week_2/titanic.csv)
+[![Download Messy Titanic CSV](https://img.shields.io/badge/Download-Messy_Titanic_CSV-217346?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/tgvp/PACD/main/raw/messy_titanic.csv)
 
-For Colab, download and upload `titanic.csv` using the Files panel before working with the dataset.
+For Colab, download and upload `messy_titanic.csv` using the Files panel before working with the dataset. For local use, the notebook automatically finds the dataset in `raw/`.
 
 ---
 

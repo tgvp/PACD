@@ -93,6 +93,30 @@ For Colab, download and upload `messy_titanic.csv` using the Files panel before 
 
 ---
 
+## 📆 Week 4
+
+### Data Wrangling and Group-Based Aggregations
+
+Concatenating DataFrames, cleaning the German Credit dataset, handling missing values and outliers, and exploring group-based statistics with `groupby()` and `agg()`.
+
+| 🧩 Student | 🔒 Solution (coming soon) |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_4/mds-pr-week-4-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_4/mds-pr-week-4-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
+
+### Extra — Exploratory Data Analysis on the Titanic
+
+Central tendency, dispersion, distributions and frequencies, group comparisons, and visual exploration with histograms, boxplots, and scatter plots.
+
+| 🧩 Student | 🔒 Solution (coming soon) |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_4/mds-pr-week-4-extra-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_4/mds-pr-week-4-extra-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
+
+Use `titanic_clean.csv`, exported at the end of Week 3. For Colab, upload it using the Files panel before working with the extra notebook.
+
+---
+
 ## 📝 Quizzes
 
 [![Quiz NumPy Practice I](https://img.shields.io/badge/Quiz-NumPy_Practice_I-F98012?style=for-the-badge&logo=moodle&logoColor=white)](https://moodle.deisi.ulusofona.pt/mod/quiz/view.php?id=1417)

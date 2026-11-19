@@ -136,7 +136,8 @@ Cleaning the Adult Census Income dataset, encoding categorical features, scaling
 
 ---
 
-## 🐍 Python Basics
+<details>
+<summary><h2>🐍 Python Basics</h2></summary>
 
 Additional practice notebooks to review and strengthen basic Python programming skills.
 
@@ -148,3 +149,5 @@ Variables and arithmetic expressions, input and output, type conversion, Boolean
 | :---: | :---: |
 | [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Basics/basics-1.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
 | [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Basics/basics-1.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
+
+</details>

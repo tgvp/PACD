@@ -113,7 +113,8 @@ Central tendency, dispersion, distributions and frequencies, group comparisons, 
 | [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Week_4/mds-pr-week-4-extra-student.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
 | [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Week_4/mds-pr-week-4-extra-student.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
 
-Use `titanic_clean.csv`, exported at the end of Week 3. For Colab, upload it using the Files panel before working with the extra notebook.
+[![Download Titanic CSV](https://img.shields.io/badge/Download-Titanic_CSV-217346?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/tgvp/PACD/main/raw/titanic.csv)
+Use `titanic.csv`, exported at the end of Week 4 or the one provided above. For Colab, upload it using the Files panel before working with the extra notebook.
 
 ---
 

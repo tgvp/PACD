@@ -133,3 +133,18 @@ Cleaning the Adult Census Income dataset, encoding categorical features, scaling
 ## 📝 Quizzes
 
 [![Quiz NumPy Practice I](https://img.shields.io/badge/Quiz-NumPy_Practice_I-F98012?style=for-the-badge&logo=moodle&logoColor=white)](https://moodle.deisi.ulusofona.pt/mod/quiz/view.php?id=1417)
+
+---
+
+## 🐍 Python Basics
+
+Additional practice notebooks to review and strengthen basic Python programming skills.
+
+### Practice 1 — Python Basics
+
+Variables and arithmetic expressions, input and output, type conversion, Boolean expressions, conditionals, strings, `for` loops, and `range()`, followed by mixed exercises and a self-assessment checklist.
+
+| 🧩 Student | 🔒 Solution (coming soon) |
+| :---: | :---: |
+| [![GitHub Student](https://img.shields.io/badge/GitHub-Student-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgvp/PACD/blob/main/Basics/basics-1.ipynb) | ![GitHub Solution — unavailable](https://img.shields.io/badge/GitHub-Solution-9CA3AF?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=6B7280) |
+| [![Colab Student](https://img.shields.io/badge/Colab-Student-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/tgvp/PACD/blob/main/Basics/basics-1.ipynb) | ![Colab Solution — unavailable](https://img.shields.io/badge/Colab-Solution-9CA3AF?style=for-the-badge&logo=googlecolab&logoColor=D1D5DB&labelColor=6B7280) |
